@@ -126,8 +126,7 @@ export default function Home() {
             Enhancing Beauty With Elegance & Care.<br />Where every visit leaves you glowing.
           </p>
           <div className="fade-in-delay-2" style={{ display: "flex", gap: "1rem", justifyContent: "center", flexWrap: "wrap" }}>
-            <a href="#contact" className="btn-primary" style={{ textDecoration: "none", color: "white", background: "white", color: "#be185d", padding: "1rem 2.5rem" }}>✨ Book Appointment</a>
-            <a href="#services" className="btn-outline">Explore Services</a>
+            <a href="#contact" className="btn-primary" style={{ textDecoration: "none", color: "#be185d", background: "white", padding: "1rem 2.5rem" }}>✨ Book Appointment</a>  <a href="#services" className="btn-outline">Explore Services</a>
           </div>
 
           {/* Stats */}
